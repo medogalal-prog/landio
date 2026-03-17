@@ -43,7 +43,7 @@ p {
   padding-block: 5.5rem;
 }
 .container {
-  padding-inline: 4.5rem;
+  padding-inline: 5.2rem;
 }
 body {
   font-family: var(--default-font);
@@ -1998,7 +1998,7 @@ header .header_btn:hover {
     margin-top: 0;
   }
   .pricing{
-    margin-top: 1850px;
+    margin-top: 1950px;
   }
   .pricing-container{
     display: grid;
@@ -2017,6 +2017,9 @@ header .header_btn:hover {
   .pricing-details ul li {
     font-size: 1.5rem;
     margin-left: 15px;
+  }
+  .massege{
+    display: none;
   }
   .massege .container{
     display: grid;
