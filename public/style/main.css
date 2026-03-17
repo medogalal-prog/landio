@@ -2021,7 +2021,7 @@ header .header_btn:hover {
   .massege{
     display: none;
   }
-  .massege .container{
+  /* .massege .container{
     display: grid;
     grid-template-columns: repeat(1,1fr);
     width: 90%;
@@ -2043,7 +2043,7 @@ header .header_btn:hover {
     }
     .massege-card-content h3{
       font-size: 1.5rem;
-    }
+    } */
     .footer-section-first{
       display: grid;
       grid-template-columns: repeat(1,1fr);
